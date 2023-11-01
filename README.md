@@ -15,6 +15,8 @@ Si encontramos el servicio finger habilitado en un server o ip destino como vemo
 
 ![image](https://github.com/Anonimo501/finger/assets/67207446/321e7a16-dfc7-4d59-be83-af509428c436)
 
+## Enumeracion con finger.sh
+
 Posteriormente usar el siguiente script para enumerar dichos usuarios:
 
 El diccionario que se usa en la prueba es el siguiente (https://github.com/Anonimo501/SecLists/blob/master/Usernames/Names/names.txt)
