@@ -10,6 +10,16 @@ El diccionario que se usa en la prueba es el siguiente (https://github.com/Anoni
 
 ![image](https://github.com/Anonimo501/finger/assets/67207446/abc93d4a-26de-4b1e-903e-f9c7de1e1e0f)
 
+## Descarga y Uso
+
+git clone https://github.com/Anonimo501/finger.git
+
+cd finger/
+
+chmod +x finger.sh
+
+./finger.sh
+
 ## Autoria:
 
 El script se realizo tomando como base el codigo del siguiente writeup: https://d4t4s3c.medium.com/vulnyx-fing-bf3830219e00 
